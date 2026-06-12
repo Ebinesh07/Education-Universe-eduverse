@@ -1,1 +1,1 @@
-mongodb+srv://ebinesh:<ebinesh1825>@ebinesh.g5kd8hi.mongodb.net/Eduverse?appName=Ebinesh
+mongodb+srv://ebinesh:ebinesh1825@ebinesh.g5kd8hi.mongodb.net/ebinesh?appName=Ebinesh
